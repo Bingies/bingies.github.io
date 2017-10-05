@@ -1,0 +1,38 @@
+Style Guidelines of BingeHub
+
+*******************************
+
+Overall
+
+The style will be very simple and mostly focused on the content.
+
+*******************************
+
+Colours
+
+Background colour of the website: Dark grey
+Button colour: Red
+Font colour: 
+  Buttons: White
+  Images: White
+
+*******************************
+
+Typography
+
+Logo: 
+General font:
+Chat font:
+
+*******************************
+
+Links
+
+Links won't be underlined and will be a different color from the general font.
+
+*******************************
+
+Buttons
+
+Buttons will be red with a white coloured font.
+For the main butttons (features, team, etc.), they'll all be in line from left to right and separated by a small grey line.
