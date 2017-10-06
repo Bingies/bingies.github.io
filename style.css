@@ -2,5 +2,8 @@ body {
 	background-color:LightGray;
 }
 h1 {
-	font-family:Helvetica;
+	color: white;
+	text-shadow: 0px 0px 0px 7px black;
+	font-family: Pacifico cursive;
+	font-size: 50px;
 }
