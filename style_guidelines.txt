@@ -20,9 +20,9 @@ Font colour:
 
 Typography
 
-Logo: 
-General font:
-Chat font:
+Logo: BingeHub in the Pacifico font (https://fonts.google.com/specimen/Pacifico)
+General font: Dosis (https://fonts.google.com/specimen/Dosis)
+Chat font: Mukta (https://fonts.google.com/specimen/Mukta)
 
 *******************************
 
