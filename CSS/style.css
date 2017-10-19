@@ -18,7 +18,8 @@ h1 {
 }
 
 .title {
-	float: centered;
+	width: 100%;
+	text-align: center;
 }
 
 .signInSignUp {
