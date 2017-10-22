@@ -35,12 +35,25 @@ a:hover {
 /* Headings */
 h1 {
 	color: white;
+	font-family: "Pacifico";
+	font-size: 10em;
+	text-decoration: none;
+	padding: 0px 0px 0px 0px;
+	text-aligne: center;
+}
+h2 {
+	color: white;
 	font-family: "Dosis";
 	font-size: 7.5em;
-	text-decoration: none;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	text-align: center;
+}
+
+.titleMain {
+	text-align: center;
+	padding-top: 1em;
+	margin-bottom: 0.5em;
 }
 
 .slogan {
