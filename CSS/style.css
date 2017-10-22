@@ -28,37 +28,35 @@ header {
 	position: fixed;
     top: 0;
     width: 100%;
+	display: float;
 }
 
 .main {
-	margin-top: 8.5em;
+	margin-top: 5em;
 	color: white;
 }
 
 .title {
-	width: 100%;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	font-size: 2em;
+	float: left;
 }
 
 .signInSignUp {
 }
 
-.titleBar {
-	display: float;
-}
-
 div.anchor {
     display: block;
     position: relative;
-    top: -8.5em;
+    top: -5em;
     visibility: hidden;
 }
 
 .nav {
 	float: right;
-	padding-bottom: 2.5em;
+	padding-bottom: 1em;
+	padding-top: 1em;
 	font-size: 1.3em;
 }
 
