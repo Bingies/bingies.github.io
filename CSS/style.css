@@ -1,9 +1,27 @@
+/* The style.css file contains the stylesheet for the whole website. */
+
+/* General body */
 body {
 	background-color: rgb(75,75,75);
 	width: 100%;
 	margin-left: 0px;
 }
 
+/* Generic button */
+button {
+	background-color: rgb(30,30,30);
+	border: none;
+	color: red;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	fontsize: 16px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+/* Links */
 a {
 	text-decoration: none;
 	color: rgb(232, 62, 41);
@@ -15,6 +33,7 @@ a:hover {
     color: white;
 }
 
+/* Headings */
 h1 {
 	color: white;
 	font-family: "Pacifico";
@@ -23,19 +42,16 @@ h1 {
 	padding-top: 0px;
 }
 
+/* Navigation menu */
 header {
 	background-color: rgb(30,30,30);
 	position: fixed;
-    top: 0;
-    width: 100%;
+   	top: 0;
+    	width: 100%;
 	display: float;
 }
 
-.main {
-	margin-top: 5em;
-	color: white;
-}
-
+/* Logo */
 .title {
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -43,9 +59,21 @@ header {
 	float: left;
 }
 
-.signInSignUp {
+/* Navigation items */
+.nav {
+	float: right;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	font-size: 1.3em;
 }
 
+/* Content of the page */
+.main {
+	margin-top: 5em;
+	color: white;
+}
+
+/* Page anchors (used in order to display the anchor under the navigation bar) */
 div.anchor {
     display: block;
     position: relative;
@@ -53,12 +81,6 @@ div.anchor {
     visibility: hidden;
 }
 
-.nav {
-	float: right;
-	padding-bottom: 1em;
-	padding-top: 1em;
-	font-size: 1.3em;
-}
 
 /* Lists */
 ul {
@@ -92,17 +114,4 @@ li {
 @font-face {
 	font-family: "Josefin";
 	src: url(../Fonts/JosefinSans-Light.ttf) format("truetype");
-}
-.button {
-	background-color: rgb(30,30,30);
-	border: none;
-	color: red;
-	padding: 15px 32px;
-	text-align: center;
-	display: inline-block;
-	fontsize: 16px;
-	text-decoration: none;
-	margin: 4px 2px;
-	cursor: pointer;
-}
-	
+}	
