@@ -9,12 +9,12 @@ body {
 
 /* Buttons */
 .button {
-	background-color: rgb(30,30,30);
+	background-color: rgb(200,200,200);
 	border: none;
-	color: red;
+	color: rgb(135, 2, 2);
+	/*rgb(232, 62, 41); */
 	padding: 15px 32px;
 	text-align: center;
-	fontsize: 16px;
 	text-decoration: none;
 	margin: 4px 2px;
 	cursor: pointer;
@@ -35,7 +35,7 @@ a:hover {
 /* Headings */
 h1 {
 	color: white;
-	font-family: "Pacifico";
+	font-family: "Dosis";
 	font-size: 7.5em;
 	text-decoration: none;
 	padding-top: 0px;
@@ -43,12 +43,18 @@ h1 {
 	text-align: center;
 }
 
+.slogan {
+	text-align:center; 
+	padding-top:2.5em; 
+	margin-bottom:0.3em;
+}
+
 /* Navigation menu */
 header {
-	background-color: rgb(30,30,30);
+	background-color: rgb(10,10,10);
 	position: fixed;
    	top: 0;
-    	width: 100%;
+    width: 100%;
 	display: float;
 }
 
@@ -56,7 +62,7 @@ header {
 .title {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	font-size: 2em;
+	font-size: 3em;
 	float: left;
 }
 
@@ -70,7 +76,7 @@ header {
 
 /* Content of the page */
 .main {
-	margin-top: 5em;
+	margin-top: 4.5em;
 	color: white;
 }
 
@@ -78,16 +84,24 @@ header {
 .loginSignUp {
 	margin-bottom:2em;
 	margin-right:1em;
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align:center;
 	margin:auto;
+}
+
+/* Home page */
+.home {
+	padding-top: 0px;
+	margin-top: -0.75em;
+	height: 40em;
+	background-image: url("../Images/background1.png");
 }
 
 /* Page anchors (used in order to display the anchor under the navigation bar) */
 div.anchor {
     display: block;
     position: relative;
-    top: -5em;
+    top: -4.5em;
     visibility: hidden;
 }
 
