@@ -94,7 +94,7 @@ li {
 	src: url(../Fonts/JosefinSans-Light.ttf) format("truetype");
 }
 .button {
-	bacground-color: rgb(30,30,30);
+	background-color: rgb(30,30,30);
 	border: none;
 	color: red;
 	padding: 15px 32px;
