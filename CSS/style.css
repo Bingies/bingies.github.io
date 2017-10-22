@@ -101,6 +101,7 @@ li {
 	text-align: center;
 	display: inline-block;
 	fontsize: 16px;
+	text-decoration: none;
 	margin: 4px 2px;
 	cursor: pointer;
 }
