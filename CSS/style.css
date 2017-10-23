@@ -5,6 +5,9 @@ body {
 	background-color: rgb(75,75,75);
 	width: 100%;
 	margin-left: 0px;
+	color: white;
+	animation-name: example;
+	animation-duration: 4s;
 }
 
 /* Buttons */
@@ -152,11 +155,7 @@ li {
 	font-family: "Josefin";
 	src: url(../Fonts/JosefinSans-Light.ttf) format("truetype");
 }	
-p{
-	color: white;
-	animation-name: example;
-	animation-duration: 3s;
-}
+
 @keyframes example {
     from {color: rgb(75,75,75);}
     to {color: white;}
