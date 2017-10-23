@@ -152,3 +152,12 @@ li {
 	font-family: "Josefin";
 	src: url(../Fonts/JosefinSans-Light.ttf) format("truetype");
 }	
+p{
+	color: white;
+	animation-name: example;
+	animation-duration: 3s;
+}
+@keyframes example {
+    from {color: rgb(75,75,75);}
+    to {color: white;}
+}
