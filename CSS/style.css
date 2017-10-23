@@ -9,7 +9,10 @@ body {
 	animation-name: example;
 	animation-duration: 4s;
 }
-
+@keyframes example {
+    from {color: rgb(75,75,75);}
+    to {color: white;}
+}
 /* Buttons */
 .button {
 	background-color: rgb(200,200,200);
@@ -156,7 +159,4 @@ li {
 	src: url(../Fonts/JosefinSans-Light.ttf) format("truetype");
 }	
 
-@keyframes example {
-    from {color: rgb(75,75,75);}
-    to {color: white;}
-}
+
