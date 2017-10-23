@@ -4,14 +4,14 @@ Style Guidelines of BingeHub
 
 Overall
 
-The style will be very simple and mostly focused on the content.
+The style will be very simple and mostly focused on the content, with big images in the background for instance.
 
 *******************************
 
 Colours
 
 Background colour of the website: Dark grey
-Button colour: Red
+Button colour: Red/gray
 Font colour: 
   Buttons: White
   Images: White
@@ -21,18 +21,19 @@ Font colour:
 Typography
 
 Logo: BingeHub in the Pacifico font (https://fonts.google.com/specimen/Pacifico)
-General font: Dosis (https://fonts.google.com/specimen/Dosis)
+Important and headings font: Dosis (https://fonts.google.com/specimen/Dosis)
 Chat font: Mukta (https://fonts.google.com/specimen/Mukta)
+General font: Josefin (Google fonts)
 
 *******************************
 
 Links
 
-Links won't be underlined and will be a different color from the general font.
+Links won't be underlined and will be a different color from the general font, red. Hovering will be white.
 
 *******************************
 
 Buttons
 
-Buttons will be red with a white coloured font.
-For the main butttons (features, team, etc.), they'll all be in line from left to right and separated by a small grey line.
+Buttons will be grey with a red coloured font.
+For the main butttons (features, team, etc.), they'll all be in line from left to right.
