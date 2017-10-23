@@ -13,6 +13,10 @@ body {
     from {color: rgb(75,75,75);}
     to {color: white;}
 }
+
+p {
+	font-family: "Josefin";
+}
 /* Buttons */
 .button {
 	background-color: rgb(200,200,200);
