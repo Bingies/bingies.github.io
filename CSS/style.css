@@ -152,6 +152,16 @@ li {
 	margin-right: 5em;
 }
 
+.about {
+	float: left;
+	width: 100%;
+}
+
+.name {
+	font-family: "Oxygen";
+}
+	
+
 /* Fonts */
 @font-face {
 	font-family: "Pacifico";
