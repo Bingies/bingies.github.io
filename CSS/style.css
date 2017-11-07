@@ -131,6 +131,7 @@ header {
 }
 
 /* Page anchors (used in order to display the anchor under the navigation bar) */
+
 div.anchor {
     display: block;
     position: relative;
@@ -159,6 +160,10 @@ li {
 
 .name {
 	font-family: "Oxygen";
+}
+
+.picture {
+	padding: 50px;
 }
 	
 
