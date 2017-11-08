@@ -154,12 +154,13 @@ li {
 }
 
 .about {
-	float: left;
+	float: right;
 	width: 100%;
 }
 
 .name {
 	font-family: "Oxygen";
+	font-size: 10px;
 }
 
 .picture {
