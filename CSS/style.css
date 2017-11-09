@@ -67,6 +67,7 @@ h3 {
 	font-size: 6em;
 	padding-top: 0px;
 	padding-bottom: 0px;
+	margin: 0px;
 	text-align: center;
 }
 
@@ -111,6 +112,13 @@ header {
 .main {
 	margin-top: 5.5em;
 	color: white;
+}
+
+/* Features page */
+.features {
+	background-image: url("../Images/phone2.png");
+	background-size:75%;
+    background-repeat: no-repeat;
 }
 
 /* Button to sign up or login */
