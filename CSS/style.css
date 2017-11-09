@@ -90,7 +90,7 @@ header {
    	top: 0;
     width: 100%;
 	display: float;
-	padding: 50px;
+	margin-left: 50px;
 }
 
 /* Logo */
