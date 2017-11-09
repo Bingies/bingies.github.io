@@ -8,6 +8,7 @@ body {
 	color: white;
 	animation-name: example;
 	animation-duration: 4s;
+
 }
 @keyframes example {
     from {color: rgb(75,75,75);}
@@ -98,6 +99,7 @@ header {
 	margin-bottom: 0px;
 	font-size: 3em;
 	float: left;
+	margin-left: 20px;
 }
 
 /* Navigation items */
