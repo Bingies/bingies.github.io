@@ -8,6 +8,7 @@ body {
 	color: white;
 	animation-name: example;
 	animation-duration: 4s;
+	padding: 50px;
 }
 @keyframes example {
     from {color: rgb(75,75,75);}
@@ -89,6 +90,7 @@ header {
    	top: 0;
     width: 100%;
 	display: float;
+	padding: 50px;
 }
 
 /* Logo */
