@@ -164,17 +164,26 @@ li {
 }
 
 .about {
-	float: right;
-	width: 100%;
+	display: inline-block;
+	width: 150px;
+	height: 75px;
+	margin: 10px;
 }
 
 .name {
 	font-family: "Oxygen";
 	font-size: 10px;
+	display: inline-block;
+	width: 150px;
+	height: 75px;
+	margin: 10px;
 }
 
 .picture {
-	padding: 50px;
+	display: inline-block;
+	width: 150px;
+	height: 75px;
+	margin: 10px;
 }
 	
 
