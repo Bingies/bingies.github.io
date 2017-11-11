@@ -180,7 +180,7 @@ li {
 
 .name {
 	font-family: "Oxygen";
-	font-size: 3em;
+	font-size: 2em;
 	display: inline-block;
 	width: 20%;
 	height: 100px;
@@ -192,6 +192,7 @@ li {
 	width: 40%;
 	height: 100px;
 	margin-left: 20px;
+	border-radius: 10%;
 }
 	
 
