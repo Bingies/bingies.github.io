@@ -186,15 +186,16 @@ li {
 	width: 40%;
 	text-align: center;
 	margin-left: -160px;
+	margin-right: 0px;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
 
-.aboutInversed {
+.aboutInverted {
 	display: inline-block;
     	width: 40%;
     	text-align: center;
-	margin-left: 0px;
+	margin-left: 50px;
 	margin-right: -70px;
 	font-size: 1.5em;
 	font-family: "Josefin";
@@ -207,7 +208,7 @@ li {
 	margin-left: 75px;
 }
 
-.nameInversed {
+.nameInverted {
 	font-family: "Oxygen";
 	font-size: 3.5em;
 	display: inline-block;
@@ -217,8 +218,12 @@ li {
 
 .picture {
 	display: inline-block;
-	margin-left: 75px;
+	margin-left: 125px;
 	margin-top: 40px;
+}
+
+.pictureMarie {
+	margin-left: -100px;
 }
 
 .liAbout {
