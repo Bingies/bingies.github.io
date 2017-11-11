@@ -164,25 +164,31 @@ li {
 }
 
 /* About Us */
+.aboutUs {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
 .about {
 	display: inline-block;
-	width: 300px;
+	width: 40%;
 	height: 75px;
 	margin: 10px;
+	font-size: 1em;
 }
 
 .name {
 	font-family: "Oxygen";
 	font-size: 3em;
 	display: inline-block;
-	width: 200px;
+	width: 20%;
 	height: 75px;
 	margin: 10px;
 }
 
 .picture {
 	display: inline-block;
-	width: 300px;
+	width: 40%;
 	height: 75px;
 	margin-left: 20px;
 }
@@ -208,5 +214,3 @@ li {
 	font-family: "Josefin";
 	src: url(../Fonts/JosefinSans-Light.ttf) format("truetype");
 }	
-
-
