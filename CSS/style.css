@@ -170,10 +170,9 @@ li {
 
 .about {
 	display: inline-block;
-	overflow: auto;
 	width: 40%;
 	height: 100px;
-	margin: 10px;
+	margin: auto;
 	font-size: 1em;
 	font-family: "Josefin"
 }
@@ -182,15 +181,13 @@ li {
 	font-family: "Oxygen";
 	font-size: 3em;
 	display: inline-block;
-	overflow: auto;
 	width: 20%;
 	height: 100px;
-	margin: 50px;
+	margin: auto;
 }
 
 .picture {
 	display: inline-block;
-	overflow: auto;
 	width: 40%;
 	height: 100px;
 	margin-left: 20px;
