@@ -68,7 +68,7 @@ h3 {
 	font-size: 6em;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	margin: 0px;
+	margin-left: 20px;
 	text-align: center;
 }
 
@@ -89,7 +89,7 @@ header {
 	background-color: rgb(10,10,10);
 	position: fixed;
    	top: 0;
-    width: 100%;
+    	width: 100%;
 	display: float;
 }
 
@@ -120,7 +120,7 @@ header {
 .features {
 	background-image: url("../Images/phone2.png");
 	background-size:75%;
-    background-repeat: no-repeat;
+    	background-repeat: no-repeat;
 }
 
 /* Button to sign up or login */
@@ -163,27 +163,28 @@ li {
 	margin-right: 5em;
 }
 
+/* About Us */
 .about {
 	display: inline-block;
-	width: 150px;
+	width: 300px;
 	height: 75px;
 	margin: 10px;
 }
 
 .name {
 	font-family: "Oxygen";
-	font-size: 10px;
+	font-size: 3em;
 	display: inline-block;
-	width: 150px;
+	width: 200px;
 	height: 75px;
 	margin: 10px;
 }
 
 .picture {
 	display: inline-block;
-	width: 150px;
+	width: 300px;
 	height: 75px;
-	margin: 10px;
+	margin-left: 20px;
 }
 	
 
