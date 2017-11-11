@@ -201,6 +201,10 @@ li {
 	font-family: "Josefin";
 }
 
+.aboutAndrew {
+	margin-left: -230px;
+}
+
 .name {
 	font-family: "Oxygen";
 	font-size: 3.5em;
@@ -223,7 +227,7 @@ li {
 }
 
 .pictureMarie {
-	margin-left: -200px;
+	margin-left: -250px;
 }
 
 .liAbout {
