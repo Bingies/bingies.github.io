@@ -162,7 +162,6 @@ div.anchor {
     visibility: hidden;
 }
 
-
 /* Lists */
 ul {
 	list-style-type: none;
@@ -186,8 +185,8 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -200px;
-	font-size: 2em;
+	margin-left: -170px;
+	font-size: 1.5em;
 	font-family: "Josefin";
 }
 
@@ -196,7 +195,8 @@ li {
     	width: 40%;
     	text-align: center;
 	margin-left: 70px;
-	font-size: 2em;
+	margin-right: -100px;
+	font-size: 1.5em;
 	font-family: "Josefin";
 }
 
@@ -205,7 +205,6 @@ li {
 	font-size: 3.5em;
 	display: inline-block;
 	margin-left: 75px;
-	padding-right: 0px;
 }
 
 .nameInversed {
@@ -213,7 +212,7 @@ li {
 	font-size: 3.5em;
 	display: inline-block;
 	margin-left: -100px;
-	padding-right: -75px;
+	margin-right: -75px;
 }
 
 .picture {
