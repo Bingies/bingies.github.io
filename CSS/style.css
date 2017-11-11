@@ -186,7 +186,7 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -120px;
+	margin-left: -200px;
 	font-size: 2em;
 	font-family: "Josefin";
 }
@@ -212,7 +212,7 @@ li {
 	font-family: "Oxygen";
 	font-size: 3.5em;
 	display: inline-block;
-	margin-left: 0px;
+	margin-left: -100px;
 	padding-right: -75px;
 }
 
