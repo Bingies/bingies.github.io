@@ -17,6 +17,8 @@ body {
 
 p {
 	font-family: "Josefin";
+	font-size: 1.25em;
+	margin: 0.5em;
 }
 /* Buttons */
 .button {
@@ -65,7 +67,7 @@ h2 {
 h3 {
 	color: white;
 	font-family: "Dosis";
-	font-size: 6em;
+	font-size: 4em;
 	padding-top: 0px;
 	padding-bottom: 0px;
 	margin-left: 20px;
@@ -120,8 +122,9 @@ header {
 /* Features page */
 .features {
 	background-image: url("../Images/phone2.png");
-	background-size:75%;
-    	background-repeat: no-repeat;
+	background-size:70%;
+    background-repeat: no-repeat;
+	background-position: right top;
 }
 
 /* Button to sign up or login */
@@ -139,6 +142,7 @@ header {
 	margin-top: -0.75em;
 	height:95vh;
 	background-image: url("../Images/background1.png");
+	background-attachment: fixed;
 }
 
 /* Page anchors (used in order to display the anchor under the navigation bar) */
