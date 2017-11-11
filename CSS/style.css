@@ -172,27 +172,38 @@ li {
 .about {
 	display: inline-block;
 	width: 40%;
-	height: 100px;
-	margin: auto;
-	font-size: 1em;
-	font-family: "Josefin"
+	text-align: center;
+	margin-left: -50px;
+	font-size: 2em;
+	font-family: "Josefin";
+}
+
+.aboutInversed {
+	display: inline-block;
+    	width: 40%;
+    	text-align: center;
+	margin-left: 70px;
+	font-size: 2em;
+	font-family: "Josefin";
 }
 
 .name {
 	font-family: "Oxygen";
-	font-size: 2em;
+	font-size: 3.5em;
 	display: inline-block;
-	width: 20%;
-	height: 100px;
-	margin: auto;
+	margin-left: 200px;
+	padding-right: 0px;
 }
 
 .picture {
 	display: inline-block;
-	width: 40%;
-	height: 100px;
-	margin-left: 20px;
-	border-radius: 10%;
+	margin-left: 250px;
+}
+
+.liAbout {
+	display: block;
+   	margin-right: 0px;
+    	padding-right: 0px;
 }
 	
 
