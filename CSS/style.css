@@ -185,7 +185,7 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -190px;
+	margin-left: -170px;
 	margin-right: 0px;
 	font-size: 1.5em;
 	font-family: "Josefin";
@@ -199,10 +199,6 @@ li {
 	margin-right: -70px;
 	font-size: 1.5em;
 	font-family: "Josefin";
-}
-
-.aboutAndrew {
-	margin-left: -250px;
 }
 
 .name {
@@ -224,10 +220,6 @@ li {
 	display: inline-block;
 	margin-left: 125px;
 	margin-top: 40px;
-}
-
-.pictureMarie {
-	margin-left: -300px;
 }
 
 .liAbout {
