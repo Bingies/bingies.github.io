@@ -185,7 +185,7 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -170px;
+	margin-left: -160px;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
@@ -194,7 +194,7 @@ li {
 	display: inline-block;
     	width: 40%;
     	text-align: center;
-	margin-left: 70px;
+	margin-left: 0px;
 	margin-right: -100px;
 	font-size: 1.5em;
 	font-family: "Josefin";
@@ -218,6 +218,7 @@ li {
 .picture {
 	display: inline-block;
 	margin-left: 75px;
+	margin-top: 40px;
 }
 
 .liAbout {
