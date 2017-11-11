@@ -2,7 +2,7 @@
 
 /* General body */
 body {
-	background-color: rgb(75,75,75);
+	background-color: rgb(10, 10, 10);
 	width: 100%;
 	margin-left: 0px;
 	color: white;
@@ -69,6 +69,7 @@ h3 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	margin-left: 20px;
+	margin: 0px;
 	text-align: center;
 }
 
@@ -136,7 +137,7 @@ header {
 .home {
 	padding-top: 0px;
 	margin-top: -0.75em;
-	height: 40em;
+	height:95vh;
 	background-image: url("../Images/background1.png");
 }
 
