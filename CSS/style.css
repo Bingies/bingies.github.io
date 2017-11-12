@@ -121,7 +121,7 @@ header {
 	background-color: rgb(10,10,10);
 	position: fixed;
    	top: 0;
-    width: 100%;
+    	width: 100%;
 	display: float;
 }
 
@@ -140,22 +140,6 @@ header {
 	padding-bottom: 1em;
 	padding-top: 1em;
 	font-size: 1.3em;
-}
-
-/* Footer content */
-footer {
-	width: 100%;
-	text-align: right;
-	padding-bottom: 1em;
-	padding-top: 1em;
-	font-size: 1.3em;
-	background-image: url("../Images/backgrounddark.png");
-	background-position: bottom;
-	background-attachment: fixed;
-}
-
-footer a {
-	color: white;
 }
 
 /* Content of the page */
@@ -231,8 +215,8 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -195px;
-	margin-right: 0px;
+	margin-left: -12.1875em;
+	margin-right: 0em;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
@@ -241,8 +225,8 @@ li {
 	display: inline-block;
     	width: 40%;
     	text-align: center;
-	margin-left: 50px;
-	margin-right: -70px;
+	margin-left: 3.125em;
+	margin-right: -4.375em;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
@@ -251,8 +235,8 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -230px;
-	margin-right: 0px;
+	margin-left: -14.375em;
+	margin-right: 0em;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
@@ -261,33 +245,33 @@ li {
 	font-family: "Oxygen";
 	font-size: 3.5em;
 	display: inline-block;
-	margin-left: 75px;
+	margin-left: 4.6875em;
 }
 
 .nameInverted {
 	font-family: "Oxygen";
 	font-size: 3.5em;
 	display: inline-block;
-	margin-left: -80px;
-	margin-right: -75px;
+	margin-left: -5em;
+	margin-right: -4.6875em;
 }
 
 .picture {
 	display: inline-block;
-	margin-left: 125px;
-	margin-top: 40px;
+	margin-left: 7.8125em;
+	margin-top: 2.5em;
 }
 
 .pictureMarie {
 	display: inline-block;
-	margin-left: -20px;
-	margin-top: 40px;
+	margin-left: -1.25em;
+	margin-top: 2.5em;
 }
 
 .liAbout {
 	display: block;
-   	margin-right: 0px;
-    	padding-right: 0px;
+   	margin-right: 0em;
+    	padding-right: 0em;
 }
 	
 
