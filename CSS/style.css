@@ -232,8 +232,7 @@ li {
 	display: inline-block;
 	width: 40%;
 	text-align: center;
-	margin-left: -12.1875em;
-	margin-right: 0em;
+	margin-left: 2em;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
@@ -243,17 +242,7 @@ li {
     	width: 40%;
     	text-align: center;
 	margin-left: 3.125em;
-	margin-right: -4.375em;
-	font-size: 1.5em;
-	font-family: "Josefin";
-}
-
-.aboutAndrew {
-	display: inline-block;
-	width: 40%;
-	text-align: center;
-	margin-left: -14.375em;
-	margin-right: 0em;
+	margin-right: 2em;
 	font-size: 1.5em;
 	font-family: "Josefin";
 }
@@ -262,15 +251,14 @@ li {
 	font-family: "Oxygen";
 	font-size: 3.5em;
 	display: inline-block;
-	margin-left: 4.6875em;
+	margin-left: 1em;
 }
 
 .nameInverted {
 	font-family: "Oxygen";
 	font-size: 3.5em;
 	display: inline-block;
-	margin-left: -5em;
-	margin-right: -4.6875em;
+	margin-right: 1em;
 }
 
 .picture {
@@ -279,9 +267,9 @@ li {
 	margin-top: 2.5em;
 }
 
-.pictureMarie {
+.pictureInverted {
 	display: inline-block;
-	margin-left: -1.25em;
+	margin-right: 7.8125em;
 	margin-top: 2.5em;
 }
 
