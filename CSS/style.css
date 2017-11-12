@@ -17,7 +17,7 @@ body {
 
 p {
 	font-family: "Josefin";
-	font-size: 1.25em;
+	font-size: 1.50em;
 	margin: 0.5em;
 }
 /* Buttons */
@@ -150,11 +150,12 @@ header {
 	background-size:70%;
     background-repeat: no-repeat;
 	background-position: right top;
+	height: 35em;
 }
 
 /* Subscription page */
 .subscriptions {
-	height:50vh;
+	height:20em;
 	background-image: url("../Images/background1.png");
 	background-attachment: fixed;
 	background-position: bottom;
