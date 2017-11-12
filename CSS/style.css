@@ -102,7 +102,7 @@ h3 {
 
 .titleMain {
 	text-align: center;
-	padding-top: 0em;
+	padding-top: 1em;
 	margin-bottom: 0em;
 }
 
@@ -140,7 +140,7 @@ header {
 
 /* Content of the page */
 .main {
-	margin-top: 1em;
+	margin-top: 5.5em;
 	color: white;
 }
 
