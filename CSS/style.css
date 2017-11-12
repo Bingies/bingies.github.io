@@ -245,6 +245,15 @@ li {
 	font-family: "Josefin";
 }
 
+.aboutAndrew {
+	display: inline-block;
+	width: 40%;
+	text-align: center;
+	margin-left: -8em;
+	font-size: 1.5em;
+	font-family: "Josefin";
+}
+
 .name {
 	font-family: "Oxygen";
 	font-size: 3.5em;
@@ -269,7 +278,14 @@ li {
 .pictureInverted {
 	display: inline-block;
 	margin-right: 7.8125em;
-	margin-left: -6.5em;
+	margin-left: -6em;
+	margin-top: 2.5em;
+}
+
+.pictureMarie {
+	display: inline-block;
+	margin-right: 7.8125em;
+	margin-left: -8em;
 	margin-top: 2.5em;
 }
 
