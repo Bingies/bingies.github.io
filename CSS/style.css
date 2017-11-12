@@ -40,6 +40,7 @@ input[type=text], input[type=password] {
 	margin: 8px 0;
 	box-sizing: border-box;
 	padding: 10px 15px;
+	border-bottom: 2px solid red;
 }
 	
 /* Padding to contain elements */
