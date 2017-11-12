@@ -40,6 +40,11 @@ input[type=text], input[type=password] {
 	margin: 8px 0;
 	box-sizing: border-box;
 	padding: 10px 15px;
+	
+/* Padding to contain elements */
+.container{
+	padding: 16px;
+	
 
 /* Links */
 a {
