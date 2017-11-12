@@ -38,8 +38,9 @@ input[type=text], input[type=password] {
 	width: 350px;
 	border: none;
 	margin: 8px 0;
-	box-sizing: border-box;
+	color: white;
 	padding: 10px 15px;
+	background-color: rgb(10, 10, 10);
 	border-bottom: 2px solid red;
 }
 	
