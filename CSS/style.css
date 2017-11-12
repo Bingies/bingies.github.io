@@ -125,6 +125,23 @@ header {
 	display: float;
 }
 
+/* Footer content */
+footer {
+	width: 100%;
+	text-align: right;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	font-size: 1.3em;
+	background-image: url("../Images/backgrounddark.png");
+	background-position: bottom;
+	background-attachment: fixed;
+}
+
+footer a {
+	color: white;
+}
+
+
 /* Logo */
 .title {
 	margin-top: 0px;
