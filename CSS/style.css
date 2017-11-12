@@ -20,6 +20,10 @@ p {
 	font-size: 1.50em;
 	margin: 0.5em;
 }
+
+.features p {
+	margin: 0.6em;
+}
 /* Buttons */
 .button {
 	background-color: rgb(200,200,200);
