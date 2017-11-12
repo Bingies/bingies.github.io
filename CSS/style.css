@@ -17,12 +17,12 @@ body {
 
 p {
 	font-family: "Josefin";
-	font-size: 1.50em;
+	font-size: 1.75em;
 	margin: 0.5em;
 }
 
 .features p {
-	margin: 0.6em;
+	margin: 2vh;
 }
 /* Buttons */
 .button {
@@ -121,7 +121,7 @@ header {
 	background-color: rgb(10,10,10);
 	position: fixed;
    	top: 0;
-    	width: 100%;
+    width: 100%;
 	display: float;
 }
 
@@ -171,7 +171,7 @@ footer a {
 	background-size:70%;
     background-repeat: no-repeat;
 	background-position: right top;
-	height: 35em;
+	height: 45em;
 }
 
 /* Subscription page */
