@@ -66,7 +66,7 @@ a {
 	text-decoration: none;
 	color: rgb(232, 62, 41);
 	font-family: "Josefin";
-	font-size: 1em;
+	font-size: 1.2em;
 }
 
 a:hover {
@@ -102,6 +102,19 @@ h3 {
 	margin-left: 20px;
 	margin: 0px;
 	text-align: center;
+}
+
+/* Table styling */
+table {
+	text-align:center;
+    width: 50%;
+	margin:auto;
+}
+
+th, tr {
+    height: 3em;
+	font-size: 1.50em;
+	font-family: Dosis;
 }
 
 .titleMain {
@@ -176,7 +189,7 @@ footer a {
 
 /* Subscription page */
 .subscriptions {
-	height:20em;
+	height: 50em;
 	background-image: url("../Images/background1.png");
 	background-attachment: fixed;
 	background-position: bottom;
@@ -294,7 +307,10 @@ li {
    	margin-right: 0em;
     	padding-right: 0em;
 }
-	
+
+.red {
+	color: red;
+}
 
 /* Fonts */
 @font-face {
